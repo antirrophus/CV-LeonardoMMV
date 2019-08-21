@@ -447,7 +447,7 @@ contenedor
 	}
 	
 }
-@media screen and (max-width: 400px)
+@media screen and (max-width: 600px)
 {
 	section dl
 	{
@@ -455,7 +455,7 @@ contenedor
 	}
 }
 
-@media screen and (min-width: 400px)
+@media screen and (min-width: 600px)
 {
 	contenedor
 	{
